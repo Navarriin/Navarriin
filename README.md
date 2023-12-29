@@ -1,8 +1,7 @@
 ## Olá, sou o Gabriel Navarro!!
 
-  ![Gabriel Navarro GitHub stats](https://github-readme-stats.vercel.app/api?username=navarriin&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navarriin&layout=compact)
-
+ <img alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=navarriin&show_icons=true&theme=dark" />
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Navarro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Navarro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
