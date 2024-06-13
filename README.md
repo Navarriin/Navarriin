@@ -1,12 +1,7 @@
 ## Olá, sou o Gabriel Navarro!!
 
- <div align="center">
-  <a href="https://github.com/ali-bouali">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navarriin&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navarriin&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navarriin&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Navarriin&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navarriin&theme=2077" height="180em" />
+ <div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navarriin&theme=2077" height="180em" />
 </div>
  
 <div style="display: inline_block"><br>
